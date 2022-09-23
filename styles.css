@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
 html {
     background-color: #020659;
     margin: 0 auto;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
 }
 
 @media screen and (min-width: 375px) {
